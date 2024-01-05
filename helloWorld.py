@@ -1,3 +1,5 @@
 first_name = input("Enter your first name: ")
 print(first_name)
 print("need new sum")
+last_name = input("Enter your last name: ")
+print(last_name)
